@@ -1,11 +1,11 @@
 variable "resource_group" {
   description = "The resource group"
-  default = "rgWebAppJavaGitHub"
+  default = "rgwebappjavagithub"
 }
 
 variable "application_name" {
   description = "The Spring Boot application name"
-  default     = "WebAppJavaGitHub"
+  default     = "webappjavagithub"
 }
 
 variable "location" {
