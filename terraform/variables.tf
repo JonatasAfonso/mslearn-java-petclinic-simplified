@@ -1,6 +1,6 @@
 variable "resource_group" {
   description = "The resource group"
-  default = "rg-az204-java"
+  default = "rg-WebAppJavaGitHub"
 }
 
 variable "application_name" {
